@@ -1,6 +1,5 @@
 import os
 
-from src.main_thread import MainThread
 from src.main_view import MainView
 
 
